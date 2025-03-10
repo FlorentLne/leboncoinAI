@@ -1,1 +1,1 @@
-web: gunicorn leboncoin:app
+web: gunicorn app:app
